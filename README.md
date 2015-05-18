@@ -10,6 +10,7 @@ Creational (5)
 - Factory method
 - Prototype
 - Singleton
+
 Structural (7)
 -------------
 
